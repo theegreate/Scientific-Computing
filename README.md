@@ -51,3 +51,16 @@ What I Learned from This Exercise
 ✅ How to format output using string formatting (.2f for 2 decimal places).
 ✅ Improved understanding of conditionals and return values.
 
+The script(numpy_basics)demonstrates how to create a NumPy array, print its contents, and retrieve its shape (i.e., the number of rows and columns).
+
+how to run the script:
+Click anywhere inside datatypes.py.
+Right-click and select Run 'datatypes' (or use the shortcut Shift + F10).
+The output will be displayed in the Run window at the bottom.
+
+What I Learned from This Exercise:
+✅How to import and use the NumPy library.
+✅How to create a 2D NumPy array.
+✅How to print the array.
+✅How to check the shape of the array, which tells the number of rows and columns.
+
